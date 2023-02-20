@@ -1,0 +1,17 @@
+{
+  "name": "@zm/rules",
+  "version": "1.0.0",
+  "description": "code rules",
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:6237e06e8a48e46e8df20403/frontend/infra/code-rules.git"
+  },
+  "author": "zhaobowen",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^5.1.8"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

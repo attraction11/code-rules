@@ -1,0 +1,21 @@
+{
+  "name": "@zm/eslint-config-vue",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:6237e06e8a48e46e8df20403/frontend/infra/code-rules.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "zhaobowen",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-vue": "^8.7.1"
+  },
+  "peerDependencies": {
+    "vue": "^3"
+  }
+}

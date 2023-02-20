@@ -1,0 +1,20 @@
+{
+  "name": "@zm/stylelint-config",
+  "version": "1.0.2",
+  "description": "stylelint config",
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:6237e06e8a48e46e8df20403/frontend/infra/code-rules.git"
+  },
+  "author": "zhaobowen",
+  "license": "ISC",
+  "dependencies": {
+    "postcss-html": "^1.5.0",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.5.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^14.1.0"
+  }
+}

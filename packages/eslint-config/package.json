@@ -1,0 +1,25 @@
+{
+  "name": "@zm/eslint-config",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:6237e06e8a48e46e8df20403/frontend/infra/code-rules.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "zhaobowen",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^8"
+  },
+  "dependencies": {
+    "@babel/eslint-parser": "^7.18.2",
+    "@babel/eslint-plugin": "^7.17.7",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "gitHead": "aea4457883a3c48b6f855bcefca19463277f03da"
+}

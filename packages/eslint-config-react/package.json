@@ -1,0 +1,19 @@
+{
+  "name": "@zm/eslint-config-react",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:6237e06e8a48e46e8df20403/frontend/infra/code-rules.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "zhaobowen",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}

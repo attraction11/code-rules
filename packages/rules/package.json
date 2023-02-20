@@ -1,0 +1,14 @@
+{
+  "name": "@zm/rules",
+  "version": "1.1.1",
+  "description": "code rules",
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:6237e06e8a48e46e8df20403/frontend/infra/code-rules.git"
+  },
+  "author": "zhaobowen",
+  "license": "ISC",
+  "dependencies": {
+    "@commitlint/config-conventional": "^16.2.4"
+  }
+}

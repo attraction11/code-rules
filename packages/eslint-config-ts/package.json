@@ -1,0 +1,19 @@
+{
+  "name": "@zm/eslint-config-ts",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@codeup.aliyun.com:6237e06e8a48e46e8df20403/frontend/infra/code-rules.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "zhaobowen",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.6",
+    "@typescript-eslint/parser": "^5.30.6"
+  }
+}
